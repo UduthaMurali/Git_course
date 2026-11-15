@@ -1,4 +1,2 @@
 get the user data
 Process the user data
-
-create sales
